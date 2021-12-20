@@ -5,10 +5,12 @@ It's much more truthful in its results than the previous method used by WCAG 2.
 The old contrast ratios (7:1 for example) are replaced with a contrast level that goes from 0 -> ~107.
 
 The guidelines recommend:
-- 15 - Minimum for non-text elements
-- 30 - Absolute min for any text
-- 45 - Min for large text (the old 3:1)
-- 60 - Min for body text (the old 4.5:1)
-- 75 - Stort vitt korsmärke Preferred level for body text
 
-Read more: [ACPA repo](https://github.com/Myndex/SAPC-APCA/blob/master/JS/ReadMe.mdt) & [Dan Hollicks tweet](https://typefully.app/u/DanHollick/t/sle13GMW2Brp).
+- 15 - Minimum for "discernible" non-text elements (invisibility limit).
+- 30 - Absolute min for any text or "understandable" no text.
+- 45 - Min for large, fluent text ("sort of" like the old 3:1)
+- 60 - Min for fluent non-body ("sort of" like the old 4.5:1)
+- 75 - Stort vitt korsmärke minimum level for body text ("sort of" like the old 7:1)
+- 90 - Preferred level for columns of body text. ("sort of" like the old 10:1)
+
+Read more: [ACPA repo](https://github.com/Myndex/SAPC-APCA/) & [Dan Hollicks tweet](https://typefully.app/u/DanHollick/t/sle13GMW2Brp).
