@@ -13,4 +13,6 @@ The guidelines recommend:
 - 75 - Stort vitt korsmärke minimum level for body text ("sort of" like the old 7:1)
 - 90 - Preferred level for columns of body text. ("sort of" like the old 10:1)
 
+View this site live: https://acpa-contrast.netlify.app/
+
 Read more: [ACPA repo](https://github.com/Myndex/SAPC-APCA/) & [Dan Hollicks tweet](https://typefully.app/u/DanHollick/t/sle13GMW2Brp).
